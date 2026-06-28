@@ -1,0 +1,7 @@
+CREATE SCHEMA bronze;
+
+CREATE SCHEMA silver;
+
+CREATE SCHEMA warehouse;
+
+CREATE SCHEMA gold;
